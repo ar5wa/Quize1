@@ -1,0 +1,14 @@
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\bin\Debug\net8.0\Quize Pro1.exe
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\bin\Debug\net8.0\Quize Pro1.deps.json
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\bin\Debug\net8.0\Quize Pro1.runtimeconfig.json
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\bin\Debug\net8.0\Quize Pro1.dll
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\bin\Debug\net8.0\Quize Pro1.pdb
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\Quize Pro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\Quize Pro1.AssemblyInfoInputs.cache
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\Quize Pro1.AssemblyInfo.cs
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\Quize Pro1.csproj.CoreCompileInputs.cache
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\Quize Pro1.dll
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\refint\Quize Pro1.dll
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\Quize Pro1.pdb
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\Quize Pro1.genruntimeconfig.cache
+C:\Users\Arwar\OneDrive\Documents\my materials\C# 101\Quize Pro1\obj\Debug\net8.0\ref\Quize Pro1.dll
